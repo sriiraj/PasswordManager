@@ -1,0 +1,26 @@
+.nav-bar-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px;
+}
+.title-with-score-container {
+  display: flex;
+  flex-basis: 90%;
+  max-width: 550px;
+}
+.logo-img {
+  width: 150px;
+  padding: 12px;
+}
+
+@media screen and (min-width: 768px) {
+  .title-with-score-container {
+    flex-basis: 80%;
+    max-width: 1100px;
+  }
+  .logo-img {
+    width: 250px;
+    padding: 18px;
+  }
+}
