@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sriiraj/github.io/PasswordManager/static/css/main.b814f622.chunk.css",
+    "main.js": "/sriiraj/github.io/PasswordManager/static/js/main.a78d719d.chunk.js",
+    "main.js.map": "/sriiraj/github.io/PasswordManager/static/js/main.a78d719d.chunk.js.map",
+    "runtime-main.js": "/sriiraj/github.io/PasswordManager/static/js/runtime-main.7349f3ed.js",
+    "runtime-main.js.map": "/sriiraj/github.io/PasswordManager/static/js/runtime-main.7349f3ed.js.map",
+    "static/js/2.05d26b4f.chunk.js": "/sriiraj/github.io/PasswordManager/static/js/2.05d26b4f.chunk.js",
+    "static/js/2.05d26b4f.chunk.js.map": "/sriiraj/github.io/PasswordManager/static/js/2.05d26b4f.chunk.js.map",
+    "index.html": "/sriiraj/github.io/PasswordManager/index.html",
+    "static/css/main.b814f622.chunk.css.map": "/sriiraj/github.io/PasswordManager/static/css/main.b814f622.chunk.css.map",
+    "static/js/2.05d26b4f.chunk.js.LICENSE.txt": "/sriiraj/github.io/PasswordManager/static/js/2.05d26b4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7349f3ed.js",
+    "static/js/2.05d26b4f.chunk.js",
+    "static/css/main.b814f622.chunk.css",
+    "static/js/main.a78d719d.chunk.js"
+  ]
+}
